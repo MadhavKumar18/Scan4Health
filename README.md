@@ -197,16 +197,16 @@ Possible improvements for the project:
 
 ### Madhav Kumar
 
-Frontend Development
-UI Design
+Frontend Development |
+UI Design |
 Application Logic
 
 ---
 
 ### Abhishek Raj
 
-Barcode Scanner Integration
-API Integration
+Barcode Scanner Integration |
+API Integration |
 Application Development
 
 ---
